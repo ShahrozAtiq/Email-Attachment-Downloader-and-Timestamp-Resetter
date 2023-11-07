@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "username": "username",
+      "password": "password",
+      "download_path": "path",
+      "imap_server": "imap.gmx.com"
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "download_path": "path",
+      "imap_server": "imap.gmail.com"
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "download_path": "path",
+      "imap_server": "imap.mail.yahoo.com"
+    }
+  ]
+}

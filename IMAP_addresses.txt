@@ -1,0 +1,11 @@
+IMAP server addresses:
+
+Gmail (Google Mail):  imap.gmail.com
+
+Outlook.com (Hotmail): imap-mail.outlook.com
+
+Yahoo Mail: imap.mail.yahoo.com
+
+AOL Mail: imap.aol.com
+
+Apple iCloud Mail: imap.mail.me.com
